@@ -1,0 +1,29 @@
+/* Esto es un Comentario */
+header {
+    text-align: center;
+    background-color: blueviolet; /* Este es el color de fondo */
+}
+header:hover {
+    background-color: cadetblue;
+}
+main {
+    background-color: chartreuse;
+}
+main:hover {
+    background-color: chocolate;
+}
+footer {
+    background-color: black;
+}
+footer:hover {
+    background-color: greenyellow;
+}
+h1 {
+    color:blue; /* Este es el color del texto */
+}
+h2 {
+    color: brown;
+}
+p {
+    color: aquamarine;
+}
